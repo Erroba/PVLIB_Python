@@ -5,9 +5,9 @@ PVLIB_Python
 [![Coverage Status](https://img.shields.io/coveralls/UARENForecasting/PVLIB_Python.svg)](https://coveralls.io/r/UARENForecasting/PVLIB_Python)
 [![Documentation Status](https://readthedocs.org/projects/uarenforecasting-pvlib-python/badge/?version=latest)](http://uarenforecasting-pvlib-python.readthedocs.org/en/latest/)
 
-This repo is a fork of the [Sandia PVLIB_Python](https://github.com/Sandia-Labs/PVLIB_Python) project.
+The project has been moved to [pvlib-python](https://github.com/pvlib/pvlib-python). This project may be revived as a test of future features in the core pvlib project, but is not currently maintained.
 
-The project has been moved to [pvlib-python](https://github.com/pvlib/pvlib-python). This project may be revived as a test of future features in the core pvlib project.
+This repo is a fork of the [Sandia PVLIB_Python](https://github.com/Sandia-Labs/PVLIB_Python) project.
 
 It provides a set of documented functions for simulating the performance of photovoltaic energy systems. The toolbox was originally developed in MATLAB at Sandia National Laboratories and it implements many of the models and methods developed at the Labs. 
 
