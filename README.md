@@ -7,6 +7,8 @@ PVLIB_Python
 
 This repo is a fork of the [Sandia PVLIB_Python](https://github.com/Sandia-Labs/PVLIB_Python) project.
 
+The project has been moved to [pvlib-python](https://github.com/pvlib/pvlib-python). This project may be revived as a test of future features in the core pvlib project.
+
 It provides a set of documented functions for simulating the performance of photovoltaic energy systems. The toolbox was originally developed in MATLAB at Sandia National Laboratories and it implements many of the models and methods developed at the Labs. 
 
 We make some contributions to the Sandia develop branch, and we pull some commits back into our fork. We hope that Sandia's PVLIB_Python becomes the community standard, but we had some different ideas about how things should be done and we needed to make progress faster than the collaborative cycle would allow. See below for a partial list of differences. 
